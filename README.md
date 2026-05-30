@@ -1,49 +1,43 @@
-# Iglesia Vida Sobrenatural — Sitio Web Oficial
+# 🏛️ Sitio Web Oficial - Iglesia Vida Sobrenatural Madrid
 
-Sitio web oficial de la **Iglesia Vida Sobrenatural**, comunidad cristiana evangélica pentecostal en Madrid.
+Bienvenido al repositorio de la plataforma web oficial de la **Iglesia Vida Sobrenatural**, una comunidad cristiana pentecostal viva en el corazón de Madrid (Calle Secoya 19).
 
-## 🌐 Demo en vivo
+Este proyecto no es solo un sitio web; es un canal digital diseñado para conectar personas con Dios, facilitar el crecimiento espiritual y coordinar nuestras actividades comunitarias en tiempo real.
 
-[vidasobrenatural.es](https://vidasobrenatural.es) · [GitHub Pages](https://stanvanger.github.io/vida-sobrenatural/)
+---
 
-## ✨ Características
+## ✨ Características Destacadas del Proyecto
 
-- **Diseño responsivo** — iPad, móvil y escritorio
-- **Formulario de registro** con integración directa a WhatsApp
-- **Devocional diario** — 7 devocionales rotativos con versiculo, reflexión y aplicación
-- **Agenda de eventos** — Cultos, ayunos, vigilias y obras benéficas
-- **Donaciones** — Formulario de donación integrado
-- **SEO avanzado** — Schema.org, FAQPage, speakable para IA/LLM
-- **WhatsApp flotante** — Acceso rápido en todas las páginas
-- **Sin dependencias externas** — HTML + CSS + JS vanilla
+Para lograr el máximo alcance e impacto digital, este sitio web ha sido estructurado bajo los más altos estándares modernos de desarrollo:
 
-## 🏛️ Información de la iglesia
+*   **⚡ Arquitectura Semántica:** HTML5 limpio enfocado en la accesibilidad universal.
+*   **🚀 SEO de Alto Rendimiento:** Optimización de palabras clave para el posicionamiento local en Madrid.
+*   **📱 Experiencia PWA (Progressive Web App):** Configuración lista para instalación en dispositivos móviles y Apple.
+*   **🤖 Integración con Inteligencia Artificial (Schema JSON-LD):** Estructuración de datos avanzada basada en `Schema.org` bajo el modelo `@graph`. Incluye marcado específico para *Church*, *FAQPage*, *Events* y propiedades `speakable` optimizadas para motores de búsqueda por voz y descubrimientos de modelos de lenguaje (LLM).
+*   **🌐 Redes Abiertas (Open Graph & Twitter Cards):** Optimización visual completa para compartir enlaces en Instagram, Facebook y X de forma atractiva.
 
-📍 Calle Secoya 19, Planta 3, Nave 17 — Madrid, España  
-📞 +34 600 000 000  
-📧 hola@vidasobrenatural.es  
-🕐 Domingos 10:00 h · Miércoles 19:30 h · Viernes 20:00 h  
+---
 
-## 🛠️ Tecnologías
+## 📅 Estructura de Eventos Implementada
 
-- HTML5 semántico
-- CSS3 con custom properties (design tokens)
-- JavaScript vanilla (ES6+)
-- Fuentes: Poppins + Playfair Display (Google Fonts)
-- Imágenes: Unsplash (alta calidad)
+El código ya cuenta con la lógica y los datos estructurados para nuestros horarios principales:
+*   **Domingos (10:00h):** Culto Dominical.
+*   **Miércoles (19:30h):** Estudio Bíblico.
+*   **Viernes (20:00h):** Reunión de Jóvenes.
 
-## 🚀 Despliegue
+---
 
-Este sitio es un archivo HTML estático. Para desplegarlo:
+## 🛠️ Tecnologías Utilizadas
 
-### GitHub Pages
-1. Ve a **Settings → Pages**
-2. Source: `Deploy from a branch` → `main` → `/ (root)`
-3. Accede en: `https://stanvanger.github.io/vida-sobrenatural/`
+*   HTML5 / CSS3 / JavaScript
+*   JSON-LD (Structured Data Open Standards)
+*   Open Graph Protocol (Meta tags)
 
-### Servidor propio
-Sube `index.html` a cualquier hosting estático (Netlify, Vercel, cPanel, etc.)
+---
 
-## 📄 Licencia
+## 📢 Comunidad y Contacto
 
-© 2025 Iglesia Vida Sobrenatural · Todos los derechos reservados
+Este desarrollo pertenece a la comunidad de la Iglesia Vida Sobrenatural. Si deseas conocer más sobre nuestra fe, ministerios o dirección física, visítanos en Calle Secoya 19, Planta 3, Nave 17, Madrid, o escríbenos a [hola@vidasobrenatural.es](mailto:hola@vidasobrenatural.es).
+
+*¡Conectando el avivamiento con la excelencia digital!*
+
